@@ -19,7 +19,7 @@
             color: #777;
         }
         .leaflet-container {
-            background: #fff;
+            background: #6AF21C;
             padding-right: 10px;
         }
         .leaflet-popup-content {
@@ -36,7 +36,7 @@
         }
         }
         .fa, .leaflet-container, a {
-            color: #000000 !important;
+            color: #6AF21C !important;
         }
         .leaflet-control-zoom-in, .leaflet-control-zoom-out,
         .leaflet-control-locate a,
